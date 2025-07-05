@@ -1,0 +1,1 @@
+# argocd-vault-redis-haproxy
